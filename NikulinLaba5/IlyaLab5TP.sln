@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IlyaLab5TP", "IlyaLab5TP\IlyaLab5TP.vcxproj", "{9562D89E-4A82-4E21-A3E3-2C07851AA7AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9562D89E-4A82-4E21-A3E3-2C07851AA7AF}.Debug|x64.ActiveCfg = Debug|x64
+		{9562D89E-4A82-4E21-A3E3-2C07851AA7AF}.Debug|x64.Build.0 = Debug|x64
+		{9562D89E-4A82-4E21-A3E3-2C07851AA7AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{9562D89E-4A82-4E21-A3E3-2C07851AA7AF}.Debug|x86.Build.0 = Debug|Win32
+		{9562D89E-4A82-4E21-A3E3-2C07851AA7AF}.Release|x64.ActiveCfg = Release|x64
+		{9562D89E-4A82-4E21-A3E3-2C07851AA7AF}.Release|x64.Build.0 = Release|x64
+		{9562D89E-4A82-4E21-A3E3-2C07851AA7AF}.Release|x86.ActiveCfg = Release|Win32
+		{9562D89E-4A82-4E21-A3E3-2C07851AA7AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99A58580-2366-4384-A5F6-3CFE67C2F613}
+	EndGlobalSection
+EndGlobal
