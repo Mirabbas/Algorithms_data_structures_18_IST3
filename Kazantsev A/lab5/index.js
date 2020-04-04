@@ -22,3 +22,4 @@ const C = A.concat(B);
 C.sort((a, b) => a - b);
 console.log("C =");
 console.log(C);
+ 
