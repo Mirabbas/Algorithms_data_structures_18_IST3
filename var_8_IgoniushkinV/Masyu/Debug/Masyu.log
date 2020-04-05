@@ -1,0 +1,14 @@
+﻿  Masyu.cpp
+D:\TP-lab4\var_8_IgoniushkinV\Masyu\Masyu.cpp(282,84): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TP-lab4\var_8_IgoniushkinV\Masyu\Masyu.cpp(282,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TP-lab4\var_8_IgoniushkinV\Masyu\Masyu.cpp(288,84): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TP-lab4\var_8_IgoniushkinV\Masyu\Masyu.cpp(288,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TP-lab4\var_8_IgoniushkinV\Masyu\Masyu.cpp(300,124): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TP-lab4\var_8_IgoniushkinV\Masyu\Masyu.cpp(300,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TP-lab4\var_8_IgoniushkinV\Masyu\Masyu.cpp(307,87): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TP-lab4\var_8_IgoniushkinV\Masyu\Masyu.cpp(307,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TP-lab4\var_8_IgoniushkinV\Masyu\Masyu.cpp(314,124): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TP-lab4\var_8_IgoniushkinV\Masyu\Masyu.cpp(314,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TP-lab4\var_8_IgoniushkinV\Masyu\Masyu.cpp(321,108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\TP-lab4\var_8_IgoniushkinV\Masyu\Masyu.cpp(321,72): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Masyu.vcxproj -> D:\TP-lab4\var_8_IgoniushkinV\Masyu\Debug\Masyu.exe
