@@ -1,0 +1,3 @@
+﻿  app4.cpp
+C:\Users\Admin\Desktop\учеба\С++\first_\app4\app4\app4.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  app4.vcxproj -> C:\Users\Admin\Desktop\учеба\С++\first_\app4\Debug\app4.exe
